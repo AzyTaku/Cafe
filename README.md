@@ -1,4 +1,4 @@
-#Basic frontend (for now) of a cafe
+# Basic frontend (for now) of a cafe
 
 Built with React + Vite along with TailwindCSS
 
